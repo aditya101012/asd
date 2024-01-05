@@ -1,15 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DigiumIPPhoneDirectory>
+
+ <DirectoryEntry>
+    <Name>DRM/HHW</Name>
+    <Telephone>400</Telephone>
+  </DirectoryEntry>
+
+ <DirectoryEntry>
+    <Name>Dy.CPM(Engg)/HWH</Name>
+    <Telephone>401</Telephone>
+  </DirectoryEntry>
+
   <DirectoryEntry>
+    <Name>ADRM(ADMIN)/HWH</Name>
+    <Telephone>402</Telephone>
+  </DirectoryEntry>
+
+ <DirectoryEntry>
+    <Name>Ch.OS(G)/HWH</Name>
+    <Telephone>403</Telephone>
+  </DirectoryEntry>
+
+  <DirectoryEntry>
+    <Name>TI(DRM)/HWH</Name>
+    <Telephone>404</Telephone>
+  </DirectoryEntry>
+
+  <DirectoryEntry>
+    <Name>Sr.DMM/HWH</Name>
+    <Telephone>405</Telephone>
+  </DirectoryEntry>
+
+ <DirectoryEntry>
+    <Name>Dy.CPM(Elec.)/HWH</Name>
+    <Telephone>406</Telephone>
+  </DirectoryEntry>
+
+<DirectoryEntry>
+    <Name>CPM(GSU)/HWH</Name>
+    <Telephone>407</Telephone>
+  </DirectoryEntry>
+
+<DirectoryEntry>
+    <Name>DOM(Safety)/HWH</Name>
+    <Telephone>408</Telephone>
+  </DirectoryEntry>
+
+<DirectoryEntry>
+    <Name>ADRM(OP)/HWH</Name>
+    <Telephone>409</Telephone>
+  </DirectoryEntry>
+
+<DirectoryEntry>
+    <Name>Sr.DFM/HWH</Name>
+    <Telephone>410</Telephone>
+  </DirectoryEntry>
+
+<DirectoryEntry>
+    <Name>Sr.DME(Coaching)/HWH</Name>
+    <Telephone>411</Telephone>
+  </DirectoryEntry>
+
+<DirectoryEntry>
+    <Name>Sr.AO/HWH</Name>
+    <Telephone>412</Telephone>
+  </DirectoryEntry>
+
+<DirectoryEntry>
     <Name>Exchange Room</Name>
     <Telephone>413</Telephone>
   </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Auto TestRoom</Name>
-    <Telephone>539</Telephone>
+
+<DirectoryEntry>
+    <Name>Unk</Name>
+    <Telephone>414</Telephone>
   </DirectoryEntry>
-  <DirectoryEntry>
+
+<DirectoryEntry>
+    <Name>Unk</Name>
+    <Telephone>415</Telephone>
+  </DirectoryEntry>
+
+<DirectoryEntry>
+    <Name>Unk</Name>
+    <Telephone>416</Telephone>
+  </DirectoryEntry>
+
+<DirectoryEntry>
     <Name>Control Testroom</Name>
     <Telephone>417</Telephone>
   </DirectoryEntry>
+
+
 </DigiumIPPhoneDirectory>
