@@ -8,4 +8,8 @@
     <Name>Auto TestRoom</Name>
     <Telephone>539</Telephone>
   </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Control Testroom</Name>
+    <Telephone>417</Telephone>
+  </DirectoryEntry>
 </DigiumIPPhoneDirectory>
